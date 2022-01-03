@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aizajansari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ASP>NET MVC
+- 👀 I’m interested in 
+- 🌱 I’m currently learning ASP.NET MVC
 - 💞️ I’m looking to collaborate on releated project.
 - 📫How to reach me:
                 -wechat-(aizaj_ansari)
